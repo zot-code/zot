@@ -1,13 +1,13 @@
 {
   "name": "@zot/zot-example-app",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@zot/zot-json-api": "^0.0.7"
+    "@zot/zot-json-api": "^0.0.8"
   },
   "gitHead": "ae7b9ad8bc07b15b9f7bad0aee3cc5268eb827a9"
 }
