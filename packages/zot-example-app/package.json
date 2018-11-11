@@ -8,5 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "zot-json-api": "^0.0.2"
-  }
+  },
+  "gitHead": "86aed2aa05353ceadaba9f35c8cd78e66e384b02"
 }
