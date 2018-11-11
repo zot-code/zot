@@ -1,0 +1,12 @@
+{
+  "name": "zot-example-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "zot-json-api": "0.0.1"
+  }
+}
