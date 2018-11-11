@@ -1,2 +1,2 @@
-const zotJsonApi = require('@zot/zot-json-api')
+const zotJsonApi = require('@zot/json-api')
 console.log(zotJsonApi);
