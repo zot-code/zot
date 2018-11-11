@@ -1,1 +1,1 @@
-module.exports = 'zot-json-api';
+module.exports = '@zot/zot-json-api';
