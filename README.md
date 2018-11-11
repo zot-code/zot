@@ -10,4 +10,4 @@ Zot is under core development but will become a "monorepo" distributing packages
 
 #### Components and Theming
 
-Zot will include a base theme and set of components, but it will also establish a means for contributors to extend or replace in implementation. This model is similar to the WordPress theme and plugin contribution model. Zot will be a "universal" React, Node web application with documentation and a styleguide to drive modern open-source collaboration to an awesome end product.
+Zot will include a base theme and set of components, but it will also establish a means for contributors to extend or replace in implementation. This model is similar to the WordPress theme and plugin contribution model. Zot will be a "universal" React / Node web application including documentation and a styleguide to drive an awesome, modern open-source collaboration.
