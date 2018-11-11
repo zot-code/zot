@@ -1,5 +1,5 @@
 {
-  "name": "zot-example-app",
+  "name": "@zot/zot-example-app",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",

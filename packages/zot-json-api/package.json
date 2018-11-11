@@ -1,5 +1,5 @@
 {
-  "name": "zot-json-api",
+  "name": "@zot/zot-json-api",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
