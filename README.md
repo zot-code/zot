@@ -1,6 +1,6 @@
 # Zot
 
-> A Node and React package based CMS framework.
+> A Node / React, package based CMS framework.
 
 Inspired by legendary open-source content management systems like WordPress, Drupal, and Django - Zot focuses on modern design, engineering, and distribution.
 
