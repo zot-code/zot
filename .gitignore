@@ -1,0 +1,16 @@
+.DS_Store
+/node_modules
+/packages/*/node_modules
+/packages/*/LICENSE
+*.log
+*.cache
+/build
+/.eslintcache
+coverage
+dist
+/.package.json
+package-lock.json
+/packages/*/lib
+.nyc_output
+.idea/
+/.changelog
