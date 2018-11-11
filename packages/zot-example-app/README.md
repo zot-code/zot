@@ -1,3 +1,3 @@
-# @zot/example-app
+# `@zot/example-app`
 
 Coming soon...

@@ -1,3 +1,3 @@
-# @zot/json-api
+# `@zot/json-api`
 
 Coming soon...
