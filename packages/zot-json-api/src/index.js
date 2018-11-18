@@ -1,4 +1,4 @@
-const jsonApi = require("jsonapi-server");
+const jsonApi = require('jsonapi-server');
 
 jsonApi.setConfig({
   port: 16006,
